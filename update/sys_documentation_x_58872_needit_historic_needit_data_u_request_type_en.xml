@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="u_new_field_3" label="New Field 3" language="en" table="x_58872_needit_needit">
+    <sys_documentation element="u_request_type" label="Request type" language="en" table="x_58872_needit_historic_needit_data">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>u_new_field_3</element>
+            <element>u_request_type</element>
             <help/>
             <hint/>
-            <label>New Field 3</label>
+            <label>Request type</label>
             <language>en</language>
-            <name>x_58872_needit_needit</name>
-            <plural>New Field 3s</plural>
+            <name>x_58872_needit_historic_needit_data</name>
+            <plural>Request types</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-09-19 01:43:35</sys_created_on>
-            <sys_id>d64550342f44001005232ea62799b6d8</sys_id>
+            <sys_created_on>2019-09-20 20:05:15</sys_created_on>
+            <sys_id>32e9d9c12f44001005232ea62799b6c0</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>New Field 3</sys_name>
+            <sys_name>Request type</sys_name>
             <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
             <sys_policy/>
             <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-            <sys_update_name>sys_documentation_x_58872_needit_needit_u_new_field_3_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_58872_needit_historic_needit_data_u_request_type_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-09-19 01:43:35</sys_updated_on>
+            <sys_updated_on>2019-09-20 20:05:15</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
